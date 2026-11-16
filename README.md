@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 資格
+
+<a href="https://www.credly.com/badges/0962fe98-8a1d-456c-90c8-f58558412089/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="140">
+</a>
+
+AWS Certified Solutions Architect – Associate
